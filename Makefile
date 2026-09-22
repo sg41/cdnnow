@@ -69,3 +69,4 @@ run-gen: build
 clean:
 	rm -rf bin
 	$(GO) clean
+	rm -rf rust_lib/target
