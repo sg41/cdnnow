@@ -1,2 +1,4 @@
 bin
 *.so
+*.a
+rust_lib/target/
